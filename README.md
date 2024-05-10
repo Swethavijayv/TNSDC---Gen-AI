@@ -17,7 +17,7 @@ Getting Started
 
 Clone this repository:
 Bash
-git clone https://github.com/[your-username]/[your-repo-name]
+git clone 
 
 Install required libraries:
 Bash
